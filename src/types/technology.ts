@@ -1,0 +1,15 @@
+export type Technology =
+    | "React"
+    | "TypeScript"
+    | "JavaScript"
+    | "Python"
+    | "Django"
+    | "Flask"
+    | "HTML"
+    | "CSS"
+    | "Tailwind CSS"
+    | "SQL"
+    | "PostgreSQL"
+    | "Bootstrap"
+    | "Docker"
+    | "Git";
